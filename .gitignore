@@ -1,0 +1,73 @@
+*.apk
+*.csproj
+*.pidb
+*.sln
+*.suo
+*.unityproj
+*.userprefs
+*.app
+
+*.pdb
+*.zip
+*.zip.*
+*.psd
+*.bin
+*.dll
+*.tga
+*.exe
+*.assets
+
+*/Builds/*
+*/Addons/*
+Library/*
+
+
+# =============== #
+# Unity generated #
+# =============== #
+*/Temp/
+*/Obj/
+*/UnityGenerated/
+*/Library/
+*/Assets/AssetStoreTools*
+
+# ============== #
+# Built Projects #
+# ============== #
+*/DDD_Data/
+*/obj/Debug
+*/HairParty_Data/
+*/HairParty.exe
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+*/ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+
+# ============ #
+# OS generated #
+# ============ #
+*.DS_Store
+*.DS_Store?
+*._*
+*.Spotlight-V100
+*.Trashes
+*Icon?
+*ehthumbs.db
+*Thumbs.db
+
+# ======================= #
+# Binary Files In Project #
+# ======================= #
+*/Assets/Textures/
+*/Assets/Materials/
+*/Assets/Models/
